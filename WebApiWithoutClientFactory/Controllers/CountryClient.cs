@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace WebApiWithClientFactory.Controllers
+namespace WebApiWithoutClientFactory.Controllers
 {
     [ApiController]
     [Route("[controller]")]
